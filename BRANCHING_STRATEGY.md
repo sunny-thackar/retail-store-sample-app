@@ -98,7 +98,7 @@ Full production workflow with automated CI/CD pipeline and private container reg
 ✅ Updates: Automatic on code changes
 ✅ Target: Production environments, enterprise deployments
 ```
-
+ 
 ### **Image Configuration**
 ```yaml
 # Services use private ECR (updated by workflow)
